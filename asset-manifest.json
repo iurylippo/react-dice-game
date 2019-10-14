@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-dice-game/static/css/main.571d80e1.chunk.css",
+    "main.js": "/react-dice-game/static/js/main.24529120.chunk.js",
+    "main.js.map": "/react-dice-game/static/js/main.24529120.chunk.js.map",
+    "runtime-main.js": "/react-dice-game/static/js/runtime-main.0862f36f.js",
+    "runtime-main.js.map": "/react-dice-game/static/js/runtime-main.0862f36f.js.map",
+    "static/js/2.786a1a76.chunk.js": "/react-dice-game/static/js/2.786a1a76.chunk.js",
+    "static/js/2.786a1a76.chunk.js.map": "/react-dice-game/static/js/2.786a1a76.chunk.js.map",
+    "index.html": "/react-dice-game/index.html",
+    "precache-manifest.88b7aa2d15522a1940f041babe6f25d6.js": "/react-dice-game/precache-manifest.88b7aa2d15522a1940f041babe6f25d6.js",
+    "service-worker.js": "/react-dice-game/service-worker.js",
+    "static/css/main.571d80e1.chunk.css.map": "/react-dice-game/static/css/main.571d80e1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0862f36f.js",
+    "static/js/2.786a1a76.chunk.js",
+    "static/css/main.571d80e1.chunk.css",
+    "static/js/main.24529120.chunk.js"
+  ]
+}
