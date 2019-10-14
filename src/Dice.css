@@ -1,0 +1,32 @@
+.Dice {
+    color: rgb(47, 102, 255);
+    margin: 20px;
+}
+.miniBounce {
+    animation: miniBounce 0.4s ease-in-out; 
+    color: rgba(42, 44, 42, 0.253);
+}
+
+@keyframes miniBounce {
+    0% {
+        transform:  translate(0px,0px)  rotate(0deg) ;
+      }
+      15% {
+        transform:  translate(-25px,0px)  rotate(-5deg) ;
+      }
+      30% {
+        transform:  translate(20px,0px)  rotate(3deg) ;
+      }
+      45% {
+        transform:  translate(-15px,0px)  rotate(-3deg) ;
+      }
+      60% {
+        transform:  translate(10px,0px)  rotate(2deg) ;
+      }
+      75% {
+        transform:  translate(-5px,0px)  rotate(-1deg) ;
+      }
+      100% {
+        transform:  translate(0px,0px)  rotate(0deg) ;
+      }
+  }
